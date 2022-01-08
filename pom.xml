@@ -5,4 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>DemoProject-Jenkins-Docker_inte</name>
   <description>Project to learn how to build docker images using jenkins</description>
+  
+  <build>
+  <finalName>demoproject-jenkin-docker-integration</finalName>
+  </build>
 </project>
